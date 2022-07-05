@@ -1,7 +1,6 @@
 # Cyberpolygon_
 
-
-загрузить видео или превратить видео в гиф!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+![image](https://github.com/diurs/Cyberpolygon_/blob/main/poligon_work.gif)
 
 ## Данный стенд состоит из 3х машин
 
