@@ -1,4 +1,4 @@
-# Cyberpolygon_
+# Cyberpolygon for information security training 
 
 ![Video](https://user-images.githubusercontent.com/61711711/177376516-41e22034-7701-4cb9-b74c-f0adfc979102.mp4)
 
