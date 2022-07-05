@@ -1,8 +1,7 @@
 # Cyberpolygon_
 
-![image](https://github.com/diurs/Cyberpolygon_/blob/main/poligon_work.gif)
+(https://user-images.githubusercontent.com/61711711/177376516-41e22034-7701-4cb9-b74c-f0adfc979102.mp4)
 
-https://user-images.githubusercontent.com/61711711/177376516-41e22034-7701-4cb9-b74c-f0adfc979102.mp4
 ![poligon_work](https://user-images.githubusercontent.com/61711711/177376574-ec4af1a7-0671-4374-a5ea-6cc7d22f161c.gif)
 
 
